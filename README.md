@@ -1,6 +1,6 @@
 # my_chat
 
-A new Flutter project.
+A Flutter project which be used in live workshop for [Ayodia](https://www.ayodiacompany.com/).
 
 ## Getting Started
 
